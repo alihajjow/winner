@@ -1,0 +1,22 @@
+<?php
+$lang['required']           = "%s field is required.";
+$lang['isset']              = "%s field must contain a value.";
+$lang['valid_email']        = "%s field must contain a valid email address.";
+$lang['valid_emails']       = "%s field must contain a multi-valid email addresses.";
+$lang['valid_url']          = "%s field must contain a valid URL.";
+$lang['valid_ip']           = "%s field must contain a valid IP address.";
+$lang['min_length']         = "%s field must contain %s characters at least.";
+$lang['max_length']         = "%s field must contain %s characters at max.";
+$lang['greater_than']       = "%s field must be greater than %s field.";
+$lang['less_than']          = "%s field must be less than %s field.";
+$lang['exact_length']       = "%s field must contain %s characters exactly.";
+$lang['alpha']              = "%s field must contain %s alphabetic characters only.";
+$lang['alpha_numeric']      = "%s field must contain %s alphabetic characters or numbers only.";
+$lang['alpha_dash']         = "%s field must contain %s alphabetic characters or numbers or - or _ only.";
+$lang['numeric']            = "%s field must contain %s numbers only.";
+$lang['is_numeric']         = "%s field must contain %s an integer numbers only.";
+$lang['integer']            = "%s field must only contain integers";
+$lang['regex_match']        = "%s field is not in the correct form";
+$lang['matches']            = "%s field must matches %s field.";
+$lang['is_natural']         = "%s field must contain %s a positive numbers only.";
+$lang['is_natural_no_zero'] = "%s field must contain %s a numbers grater than zero only.";

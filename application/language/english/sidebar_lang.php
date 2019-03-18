@@ -1,0 +1,24 @@
+<?php
+$lang["create_user"] = "Create new employee";
+$lang["sign_out"] = "Sign out";
+$lang["lang"] = "English";
+$lang["control_panel"] = "Control panel";
+$lang["create_customer"] = "Create client";
+$lang["create_ad"] = "Create Ad";
+$lang["employees"] = "Employees list";
+$lang["clients"] = "Clients list";
+$lang["roles"] = "Roles and permissions";
+$lang["my_balance"] = "My balance";
+$lang["home"] = "Home page";
+$lang["manage_ad"] = "Manage ad positions";
+$lang["type_ad"] = "Manage ad types";
+$lang["prof_ad"] = "Manage ad professions";
+$lang["sus_emps"] = "Deleted employees";
+$lang["additions"] = "Additions";
+$lang["banks"] = "Banks";
+$lang["transfer_bank"] = "Transfer bank";
+$lang["commision_bank"] = "Commision bank";
+$lang["no_payments"] = "No payments inside this range";
+$lang["fa_comm_bank"] = "Father commision bank";
+$lang["salary_bank"] = "Salaries bank";
+$lang["bank_logout"] = "Banks logout";
