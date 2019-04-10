@@ -833,7 +833,6 @@ class User extends CI_Controller
 
     public function register_s2($value = '')
     {
-
         if ($_POST) {
             $this->form_validation->set_rules('course_cat', trans('course_cat'), 'required|is_numeric');
             $this->form_validation->set_rules('course', trans('course'), 'required|is_numeric');
